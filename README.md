@@ -1,19 +1,17 @@
-# 👋 ¡Hola! Soy Valentino Pettinato
+# 👋 Hi! I'm Valentino Pettinato
 
-## 💻 Full Stack Developer | Programador | 📚 Analista de requirimientos 
+## 💻 Full Stack Developer | Programmer | 📚 Requirements Analyst
 
-Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más destacados, demostrando mis habilidades en desarrollo web, bases de datos y diseño UI/UX.
-
+Welcome to my GitHub portfolio. Here you will find my most notable projects, showcasing my skills in web development, databases, and UI/UX design.
 ---
-
-## 🔗 Enlaces importantes
+## 🔗 Important Links
 
 - 📧 [Email](mailto:valentinopettinato@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentino-pettinato-8355582a5)  
 
 ---
 
-## 🚀 Tecnologías que utilizo
+## 🚀 Technologies I Use
 
 ### 🖋 Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,20 +34,12 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más dest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petti23&layout=compact&theme=tokyonight)](https://github.com/TU_USUARIO)
 
----
 
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
+
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
----
-
-## 📁 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|--------------|
-| [Nombre del proyecto 1](https://github.com/tuusuario/proyecto1) | Breve descripción del proyecto. | React, Node.js |
-| [Nombre del proyecto 2](https://github.com/tuusuario/proyecto2) | Breve descripción del proyecto. | HTML, CSS, JS |
-| [Nombre del proyecto 3](https://github.com/tuusuario/proyecto3) | Breve descripción del proyecto. | Python, Django |
+---|
 
