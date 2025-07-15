@@ -5,7 +5,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Emiliano Valentino Pettinatp** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Emiliano Valentino Pettinato** <img src="https://i.pinimg.com/1200x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="400" align="right"/>
 - :school: I'm currently 3rd year student at **FCyT UADER - Bachelor's degree in systems.**
 - :books: My major is **Graduate and systems analyst.**
 - :earth_asia: I'm living now in **Paraná, Entre Ríos, Argentina**
