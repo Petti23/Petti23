@@ -34,7 +34,7 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más dest
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/TU_USUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petti23&layout=compact&theme=tokyonight)](https://github.com/TU_USUARIO)
 
 ---
 
