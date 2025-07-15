@@ -53,6 +53,3 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más dest
 | [Nombre del proyecto 2](https://github.com/tuusuario/proyecto2) | Breve descripción del proyecto. | HTML, CSS, JS |
 | [Nombre del proyecto 3](https://github.com/tuusuario/proyecto3) | Breve descripción del proyecto. | Python, Django |
 
----
-
-### ⭐ ¡No olvides dar ⭐ a los proyectos que te gusten!
