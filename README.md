@@ -38,6 +38,13 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más dest
 
 ---
 
+
+## 📈 Estadísticas de GitHub
+
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+---
+
 ## 📁 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -45,12 +52,6 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más dest
 | [Nombre del proyecto 1](https://github.com/tuusuario/proyecto1) | Breve descripción del proyecto. | React, Node.js |
 | [Nombre del proyecto 2](https://github.com/tuusuario/proyecto2) | Breve descripción del proyecto. | HTML, CSS, JS |
 | [Nombre del proyecto 3](https://github.com/tuusuario/proyecto3) | Breve descripción del proyecto. | Python, Django |
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 ---
 
