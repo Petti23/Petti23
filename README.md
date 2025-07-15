@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Valentino Pettinato
 
-## 💻 Full Stack Developer | 🖌️ Diseñador | 📚 Apasionado por el aprendizaje
+## 💻 Full Stack Developer | Programador | 📚 Analista de requirimientos 
 
 Bienvenido a mi portafolio en GitHub. Aquí encontrarás mis proyectos más destacados, demostrando mis habilidades en desarrollo web, bases de datos y diseño UI/UX.
 
